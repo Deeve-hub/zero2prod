@@ -15,10 +15,10 @@ name = "zero2prod"
 [dev-dependencies]
 reqwest = "0.11"
 
-[dependencies.openssl]
-version = "0.10.29"
-features = ["vendored"]
-
+# [dependencies.openssl]
+# version = "0.10.29"
+# features = ["vendored"]
+#
 [dependencies]
 
 actix-web = "4"
